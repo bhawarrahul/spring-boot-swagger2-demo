@@ -1,0 +1,5 @@
+com/swagger2/controller/StudentController.class
+com/Application.class
+com/swagger2/config/Swagger2Config.class
+com/swagger2/Entity/Student.class
+com/swagger2/repository/StudentRepository.class
